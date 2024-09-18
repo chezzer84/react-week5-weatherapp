@@ -24,13 +24,13 @@ export default function App() {
           >
             open sourced
           </a>
-          {"and hosted on"}
+          {"and hosted on "}
           <a
             href="https://glistening-taiyaki-cb92af.netlify.app/"
             target="blank"
             rel="noopener noreferrer"
           >
-            netlify
+            Netlify
           </a>
         </footer>
       </div>
