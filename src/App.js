@@ -14,9 +14,9 @@ export default function App() {
             target="blank"
             rel="noopener noreferrer"
           >
-            Cheryl Watts 👩‍💻
+            Cheryl Watts
           </a>
-          {"and is "}
+          {" 👩‍💻 and is "}
           <a
             href="https://github.com/chezzer84/react-week5-weatherapp"
             target="blank"
@@ -24,7 +24,7 @@ export default function App() {
           >
             open sourced
           </a>
-          {"and hosted on "}
+          {" and hosted on "}
           <a
             href="https://glistening-taiyaki-cb92af.netlify.app/"
             target="blank"
